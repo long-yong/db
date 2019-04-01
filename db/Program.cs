@@ -12,8 +12,7 @@ namespace db
         {
             Console.WriteLine("Hello World!");
             Console.ReadKey();
-            // add line 1
-            // add line 2
+            // delete line 1 & 2
         }
     }
 }
